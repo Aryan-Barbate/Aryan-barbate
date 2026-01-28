@@ -24,4 +24,4 @@ I'm a 2nd Diploma student in Information Technology, committed to developing str
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Aryan-Barbate"><img src="https://github-readme-stats.vercel.app/api?username=Aryan-Barbate&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aryan-Barbate's GitHub stats" /></a>
+![Aryan-Barbate's Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Barbate&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
