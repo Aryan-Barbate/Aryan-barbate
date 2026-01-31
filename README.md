@@ -12,6 +12,8 @@ I'm a 2nd Diploma student in Information Technology, committed to developing str
 * 👥  I'm looking to collaborate on Open Source Projects
 * 🧩 When I'm not debugging, you'll find me studying Japanese 🎌, playing Chess ♟️, or catching up on Anime 📺.
 
+###Tech Stacks
+
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="assets/icons/C.svg" alt="C" title="C" width="36" height="36" />
