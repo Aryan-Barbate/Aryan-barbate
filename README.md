@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aryan barbate
 ======================================================================================================================================
 
-A Passionate Future Full Stack Developer
+Aspiring Full Stack Developer
 ----------------------------------------
 
 I'm a 2nd Diploma student in Information Technology, committed to developing strong technical fundamentals and building a long-term career in software dev. I'm passionate about learning new technologies and collaborating with creative minds.
