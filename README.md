@@ -10,7 +10,7 @@ I'm a 2nd Diploma student in Information Technology, committed to developing str
 * ✉️  You can contact me at [aryanbarbate3@gmail.com](mailto:aryanbarbate3@gmail.com)
 * 🧠  I'm currently learning Python, Java, JavaScript and Figma
 * 👥  I'm looking to collaborate on Open Source Projects
-* 💬  Ask me about I'm learning Japanese language 🎌 and I'm passionate about chess ♟️ and anime! 📺
+* 🧩 When I'm not debugging, you'll find me studying Japanese 🎌, playing Chess ♟️, or catching up on Anime 📺.
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
