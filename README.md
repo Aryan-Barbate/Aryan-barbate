@@ -1,77 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aryan barbate
-======================================================================================================================================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Aryan;Aspiring+Full+Stack+Dev;Coding+the+Future..." alt="Typing SVG" />
+</div>
 
-Aspiring Full Stack Developer
-----------------------------------------
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/Github-profile.gif" alt="Aryan's Profile GIF" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td width="50%" valign="top">
+      <h2>👨‍💻 <samp>About Me</samp></h2>
+      <p>
+        I am a <b>2nd Year IT Diploma Student</b> from Pune, committed to building strong technical fundamentals. 
+        I believe in learning by doing—breaking code, fixing it, and repeating the process.
+      </p>
+      <br>
+      <ul>
+        <li>🌱 <b>Currently Learning:</b> Python, Java, & Japanese 🎌</li>
+        <li>🧩 <b>Hobbies:</b> Chess ♟️, Anime 📺, and Space Shooters 🚀</li>
+        <li>👯 <b>Looking for:</b> Open Source collaborations</li>
+        <li>📫 <b>Contact:</b> <a href="mailto:aryanbarbate3@gmail.com">aryanbarbate3@gmail.com</a></li>
+      </ul>
+      <br>
+      <a href="https://github.com/Aryan-Barbate">
+         <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square&logo=github" />
+      </a>
+      <a href="https://www.linkedin.com/in/aryan-barbate-b653b9393">
+        <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-I'm a 2nd Diploma student in Information Technology, committed to developing strong technical fundamentals and building a long-term career in software dev. I'm passionate about learning new technologies and collaborating with creative minds.
+---
 
-* 🌍  I'm based in Rajgurunagar, Pune, Maharashtra, India
-* ✉️  You can contact me at [aryanbarbate3@gmail.com](mailto:aryanbarbate3@gmail.com)
-* 🧠  I'm currently learning Python, Java, JavaScript and Figma
-* 👥  I'm looking to collaborate on Open Source Projects
-* 🧩 When I'm not debugging, you'll find me studying Japanese 🎌, playing Chess ♟️, or catching up on Anime 📺.
+<div align="center">
+  <h3>🛠️ The Arsenal</h3>
+  <p><b>Languages & Frameworks</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql&theme=dark" />
+  </a>
   
-----------------------------------------
-### Tech Stacks:
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="assets/icons/C.svg" alt="C" title="C" width="36" height="36" />
+  <br><br>
+  
+  <p><b>Tools & Environment</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,figma,notion&theme=dark" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="assets/icons/cpp.svg" alt="C++" title="C++" width="36" height="36" />
-  </a>
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/python.svg" alt="Python" title="Python" width="36" height="36" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/java.svg" alt="Java" title="Java" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="assets/icons/html5.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="assets/icons/css3.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/linux.svg" alt="Linux" title="Linux" width="36" height="36" />
-  </a>
-   <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="36" height="36" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/git.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
-    <a href="https://github.com/Aryan-Barbate" target="_blank" rel="noreferrer">
-    <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="36" height="36" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/vscode.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/notion.svg" alt="Notion" title="Notion" width="36" height="36" />
-  </a>
-</p>
+</div>
 
-----------------------------------------
-### Socials:
+---
 
-<p align="left"> <a href="https://www.github.com/Aryan-Barbate" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@barbate_aryan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/aryan-barbate-b653b9393" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-----------------------------------------
-### GitHub Stats:
-<div algin="center">
-  <p align="center">
-    
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <br>
+  
 ![](https://github-readme-stats.vercel.app/api?username=Aryan-barbate&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aryan-barbate&theme=midnight-purple&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-barbate&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img src="assets/space-shooter.gif" />
-  </p>
-<!-- ![snake gif](https://github.com/Aryan-barbate/Aryan-barbate/blob/output/github-snake-dark.svg) -->
+  
 </div>
----------------------------------------------
+
+---
+
+<div align="center">
+  <h3>👾 Galactic Bug Hunter</h3>
+  <p><i>"Visual footage of me aggressively handling merge conflicts and syntax errors."</i></p>
+  
+  <img src="assets/space-shooter.gif" width="600" style="border-radius: 15px;" />
+  
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <a href="https://www.threads.net/@barbate_aryan" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank" /></a>
+    <a href="mailto:aryanbarbate3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  </p>
+  <p><i>"Quietly learning. Building consistently."</i></p>
+</div>
