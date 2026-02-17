@@ -82,3 +82,6 @@
   </p>
   <p><i>"Quietly learning. Building consistently."</i></p>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Aryan-barbate&color=brightgreen" alt="watching_count" />
+</div>
