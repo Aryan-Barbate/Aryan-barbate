@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Aryan%20Barbate&fontSize=40&fontColor=ffffff&color=0:111827,50:4c1d95,100:7c3aed&animation=twinkling" width="100%" />
+</div><div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Aryan;Aspiring+Full+Stack+Dev;Coding+the+Future..." alt="Typing SVG" />
 </div>
 
@@ -53,12 +55,15 @@
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <br>
-  
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan-barbate&theme=midnight-purple&hide_border=false) 
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=Aryan-barbate&theme=midnight-purple&hide_border=false) 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-barbate&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+   <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Barbate&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" height="180" />
+
 </div>
 
 ---
