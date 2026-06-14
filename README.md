@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Aryan%20Barbate&fontSize=40&fontColor=ffffff&color=0:111827,50:4c1d95,100:7c3aed&animation=twinkling" width="100%" />
 </div><div align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Aryan;Aspiring+Full+Stack+Dev;Coding+the+Future..." alt="Typing SVG" />
 </div>
 
