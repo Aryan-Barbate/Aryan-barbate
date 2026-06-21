@@ -37,16 +37,31 @@
 
 <div align="center">
   <h3>🛠️ The Arsenal</h3>
-  <p><b>Languages & Frameworks</b></p>
+
+  <p><b>Languages & Frontend</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react&theme=dark" />
   </a>
-  
+
   <br><br>
-  
+
+  <p><b>Backend & Databases</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
+  </a>
+
+  <br><br>
+
   <p><b>Tools & Environment</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,figma,notion&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,vercel,netlify&theme=dark" />
+  </a>
+
+  <br><br>
+
+  <p><b>Design & Productivity</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" />
   </a>
 </div>
 
