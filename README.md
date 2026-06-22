@@ -18,7 +18,7 @@
       </p>
       <br>
       <ul>
-        <li>🌱 <b>Currently Learning:</b> Python, Java</li>
+        <li>🌱 <b>Currently Learning:</b> MERN Stack</li>
         <li>🧩 <b>Hobbies:</b> Playing Chess ♟️, Watching Anime 📺, and Listening Music 🎶</li>
         <li>👯 <b>Looking for:</b> Open Source collaborations</li>
         <li>📫 <b>Contact:</b> <a href="mailto:aryanbarbate3@gmail.com">aryanbarbate3@gmail.com</a></li>
