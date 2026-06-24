@@ -13,7 +13,7 @@
     <td width="50%" valign="top">
       <h2>👨‍💻 <samp>About Me</samp></h2>
       <p>
-        I am a <b>2nd Year IT Diploma Student</b> from Pune, committed to building strong technical fundamentals. 
+        I am a <b>3rd Year IT Diploma Student</b> from Pune, committed to building strong technical fundamentals. 
         I believe in learning by doing—breaking code, fixing it, and repeating the process.
       </p>
       <br>
