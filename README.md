@@ -77,9 +77,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-barbate&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Barbate&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" height="180" />
-
-</div>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan-barbate&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
 
 ---
 
