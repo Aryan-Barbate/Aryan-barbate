@@ -88,7 +88,6 @@
   <img src="assets/space-shooter.gif" width="600" style="border-radius: 15px;" />
   
 </div>
-
 ---
 
 <div align="center">
