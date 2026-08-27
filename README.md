@@ -74,7 +74,7 @@
   ![](https://nirzak-streak-stats.vercel.app/?user=Aryan-barbate&theme=midnight-purple&hide_border=false) 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-barbate&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Barbate&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    <br>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Barbate&theme=tokyonight-duo)](https://git.io/streak-stats)
