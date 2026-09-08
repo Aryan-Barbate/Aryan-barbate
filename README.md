@@ -27,7 +27,7 @@
       <p align="center">
   <a href="https://www.aryanbarbate.me/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=aboutdotme&label=&color=06B6D4&logoColor=white&style=for-the-badge" alt="portfolio logo" /></a>
   <a href="https://github.com/Aryan-Barbate" target="_blank"><img src="https://img.shields.io/static/v1?message=Student&logo=github&label=Status&color=6366F1&logoColor=white&style=for-the-badge" alt="github status" /></a>
-  <a href="https://www.linkedin.com/in/aryan-barbate-b653b9393" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0A66C2&logoColor=white&style=for-the-badge" alt="linkedin connect" /></a>
+  <a href="https://www.linkedin.com/in/aryan-barbate" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0A66C2&logoColor=white&style=for-the-badge" alt="linkedin connect" /></a>
 </p>
     </td>
   </tr>
