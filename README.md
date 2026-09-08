@@ -13,12 +13,13 @@
     <td width="50%" valign="top">
       <h2>👨‍💻 <samp>About Me</samp></h2>
       <p>
-        I am a <b>3rd Year IT Diploma Student</b> from Pune, committed to building strong technical fundamentals. 
-        I believe in learning by doing—breaking code, fixing it, and repeating the process.
+  I'm an IT Diploma student and aspiring Full-Stack Developer from Pune, focused on building practical and reliable web applications.
+
+  I work primarily with the MERN stack — MongoDB, Express.js, React.js, and Node.js and enjoy building applications involving authentication, REST APIs, real-       time communication, databases, and third-party integrations.
       </p>
       <br>
       <ul>
-        <li>🌱 <b>Currently Learning:</b> Backend Dev.</li>
+        <li>🌱 <b>Currently Learning:</b> real-time communication</li>
         <li>🧩 <b>Hobbies:</b> Playing Chess ♟️, Watching Anime 📺, and Listening Music 🎶</li>
         <li>👯 <b>Looking for:</b> Open Source collaborations</li>
         <li>📫 <b>Contact:</b> <a href="mailto:aryanbarbate3@gmail.com">aryanbarbate3@gmail.com</a></li>
