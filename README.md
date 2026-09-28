@@ -46,17 +46,19 @@
 
   <br><br>
 
-  <p><b>Backend & Databases</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
-  </a>
+<p><b>Backend & Databases</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,redis&theme=dark" />
+</a>
+
+<img src="assets/socket.svg" width="48" height="48" alt="Socket.IO" />
 
   <br><br>
 
-  <p><b>Tools & Environment</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,vercel,netlify&theme=dark" />
-  </a>
+<p><b>Tools & Environment</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,vercel,netlify,postman&theme=dark" />
+</a>
 
   <br><br>
 
