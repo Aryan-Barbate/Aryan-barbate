@@ -47,12 +47,11 @@
   <br><br>
 
 <p><b>Backend & Databases</b></p>
-<a href="https://skillicons.dev">
+
+<div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,redis&theme=dark" />
-</a>
-
-<img src="assets/socket.svg" width="48" height="48" alt="Socket.IO" />
-
+  <img src="assets/socket.svg" width="48" height="48" alt="Socket.IO" />
+</div>
   <br><br>
 
 <p><b>Tools & Environment</b></p>
@@ -62,10 +61,10 @@
 
   <br><br>
 
-  <p><b>Design & Productivity</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" />
-  </a>
+<p><b>Design & Productivity</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,notion,obsidian&theme=dark" />
+</a>
 </div>
 
 ---
